@@ -14,4 +14,9 @@
 .plans-container--slider
 {
     justify-content: center;
+     overflow-x:hidden;
+}
+.main-tables-container
+{   
+    overflow-x:hidden;
 }
